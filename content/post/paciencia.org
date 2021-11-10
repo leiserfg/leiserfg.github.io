@@ -2,7 +2,7 @@
 title = "Paciencia"
 date = 2021-11-08T23:18:15+01:00
 draft = false
-tags = ["shorttale", "español"]
+tags = ["mini-stories", "español"]
 +++
 
 Está ahí, con su risa y sus rizos perfectos. Sus ojos color hojarasca no hacen más que recordarte que aquella noche, camino al campamento, debías haber esperado un poco más. Casi puedes oler su esencia; su esencia a ropa que quiere ser rasgada, a carne que quiere ser mordida. Cierras los párpados, te visualizas haciéndolo y saliva comienza a destilar de las glándulas en tu boca.
